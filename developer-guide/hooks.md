@@ -73,7 +73,7 @@ class InsertEvent implements \Directus\Hook\HookInterface
 ];
 ```
 
-## Creating an Filter Hook
+## Creating a Filter Hook
 
 If you need to add a custom data before being inserted into a table, you need filters hook.
 
